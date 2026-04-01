@@ -1,6 +1,6 @@
 cask "nitty" do
-  version "1.0.1"
-  sha256 "83ae544070f22c879b5efc18944ab9fc911e4f300623fc3e9baf9f93364bd556"
+  version "1.0.2"
+  sha256 "1533dab43795a5fb9b66d6305fcd64a43aa69f32c7538a958d1896f0b2998ad1"
 
   url "https://github.com/saltui/nitty/releases/download/v#{version}/Nitty-#{version}.dmg"
   name "Nitty"
